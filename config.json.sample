@@ -1,0 +1,14 @@
+{
+    "instacart": {
+        "username": "test@test.com",
+        "password": "test123",
+        "availabilityUrl": "https://www.instacart.com/v3/containers/wegmans/next_gen/retailer_information/content/delivery",
+        "loginUrl": "https://www.instacart.com/v3/dynamic_data/authenticate/login"
+    }, 
+    "twilio": {
+        "accountSid": "something",
+        "authToken": "somethingelse",
+        "twilioNumber": "+1twilionumber",
+        "recipientNumbers": [ "+1phone1", "+1phone2" ]
+    }
+}
