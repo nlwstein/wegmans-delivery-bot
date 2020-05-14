@@ -3,7 +3,9 @@
         "username": "test@test.com",
         "password": "test123",
         "availabilityUrl": "https://www.instacart.com/v3/containers/wegmans/next_gen/retailer_information/content/delivery",
-        "loginUrl": "https://www.instacart.com/v3/dynamic_data/authenticate/login"
+        "loginUrl": "https://www.instacart.com/v3/dynamic_data/authenticate/login",
+        "dumpOrderUrl": "https://www.instacart.com/api/v2/orders/",
+            "dumpOrderListUrl": "https://www.instacart.com/v3/orders/"
     }, 
     "twilio": {
         "accountSid": "something",
